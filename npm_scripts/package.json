@@ -1,0 +1,14 @@
+{
+  "name": "npm_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "echo This is me, Prestart",
+    "start": "node index.js",
+    "poststart": "echo This is me, Postart",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
